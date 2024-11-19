@@ -1,7 +1,6 @@
 #ProductPriceRecommendation
 
-This project employs linear regression and Random forest to recommend product price through data-driven strategies,
-and enhanced decision-making.
+Developed a product price recommendation system leveraging machine learning models such as Linear Regression, Random Forest, and Ridge Regression. Implemented data preprocessing, feature engineering, and model evaluation to predict optimal product prices. Demonstrated skills in data analysis, predictive modeling, and performance optimization.
 
 The Dataset for this project was download from Kaggle 
 
